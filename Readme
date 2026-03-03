@@ -29,20 +29,23 @@ When risk is detected, the system automatically:
 ## 🖼️ Project Screenshots
 
 ### 📊 1️⃣ Secure Login Page
-![Dashboard](./screenshots/login)
+| ![Screenshot 1](screenshots/login.png) |
 
 ### 🔐 2️⃣ Dashboard View
-![Login](./screenshots/dashboard)
+
+| ![Screenshot 2](screenshots/dashboard.png) |
 
 ### 📈 3️⃣ Risk Monitoring Chart
-![Chart](./screenshorts/database)
+
+| ![Screenshot 3](screenshots/database.png) |
 
 ---
 
 ## 🎥 Project Demo Video
 
 ▶️ Watch Demo:  
- ![Demo vedio](./screenshorts/vedio1.mp4)
+ 
+| ![Video 1](screenshots/vedio1.mp3) |
 
 *(Replace with your actual project demo video link)*
 
