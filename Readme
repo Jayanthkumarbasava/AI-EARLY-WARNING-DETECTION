@@ -25,44 +25,26 @@ When risk is detected, the system automatically:
 - 📊 Logs data into a database  
 
 ---
-
-# 🚨 AI Early Warning System
-
----
-
 ## 🖼️ Project Screenshots
 
 ### 📊 Secure Login Page
-<img src="screenshots/login.png" width="800">
-
----
+<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/login.png" width="800">
 
 ### 🔐 Dashboard View
-<img src="screenshots/dashboard.png" width="800">
-
----
+<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/dashboard.png" width="800">
 
 ### 📈 Risk Monitoring Chart
-<img src="screenshots/database.png" width="800">
+<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/database.png" width="800">
 
 ---
 
 ## 🎥 Project Demo Video
-
-Click below to download/watch the demo video:
-
-<a href="screenshots/vedio1.mp4">▶️ Download / Watch Demo Video</a>
+[▶️ Watch Demo](https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/vedio1.mp4)
 
 ---
 
-## 🔊 Alert Sound File
-
-Alert sound used in project:
-
-<a href="alert.mp3">🔔 Download Alert Sound (MP3)</a>
-
----
-
+## 🔔 Alert Sound
+[Download Alert Sound](https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/alert.mp3)
 ---
 
 ## 🏗️ Project Structure
