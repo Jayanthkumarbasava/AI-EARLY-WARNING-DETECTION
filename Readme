@@ -25,26 +25,37 @@ When risk is detected, the system automatically:
 - 📊 Logs data into a database  
 
 ---
+# 🚨 AI Early Warning System
+
+---
+
 ## 🖼️ Project Screenshots
 
 ### 📊 Secure Login Page
-<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/login.png" width="800">
+<img src="https://raw.githubusercontent.com/Jayanthkumarbasava/AI-EARLY-WARNING-DETECTION/main/screenshots/login.png" width="900">
+
+---
 
 ### 🔐 Dashboard View
-<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/dashboard.png" width="800">
+<img src="https://raw.githubusercontent.com/Jayanthkumarbasava/AI-EARLY-WARNING-DETECTION/main/screenshots/dashboard.png" width="900">
+
+---
 
 ### 📈 Risk Monitoring Chart
-<img src="https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/database.png" width="800">
+<img src="https://raw.githubusercontent.com/Jayanthkumarbasava/AI-EARLY-WARNING-DETECTION/main/screenshots/database.png" width="900">
 
 ---
 
 ## 🎥 Project Demo Video
-[▶️ Watch Demo](https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/screenshots/vedio1.mp4)
+
+[▶️ Click Here to Watch Demo](https://raw.githubusercontent.com/Jayanthkumarbasava/AI-EARLY-WARNING-DETECTION/main/screenshots/vedio1.mp4)
 
 ---
 
-## 🔔 Alert Sound
-[Download Alert Sound](https://raw.githubusercontent.com/USERNAME/AI-EARLY-WARNING-DETECTION/main/alert.mp3)
+## 🔔 Alert Sound File
+
+[🔊 Download Alert Sound (MP3)](https://raw.githubusercontent.com/Jayanthkumarbasava/AI-EARLY-WARNING-DETECTION/main/alert.mp3)
+
 ---
 
 ## 🏗️ Project Structure
