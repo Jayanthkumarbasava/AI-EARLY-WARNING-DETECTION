@@ -26,17 +26,42 @@ When risk is detected, the system automatically:
 
 ---
 
-## 🖼️ Screenshots
+# 🚨 AI Early Warning System
 
+---
+
+## 🖼️ Project Screenshots
+
+### 📊 Secure Login Page
 <img src="screenshots/login.png" width="800">
 
-![login](screenshots/login.png)
-![dashboard](screenshots/dashboard.png)
-![database](screenshots/database.png)
+---
 
+### 🔐 Dashboard View
+<img src="screenshots/dashboard.png" width="800">
+
+---
+
+### 📈 Risk Monitoring Chart
+<img src="screenshots/database.png" width="800">
+
+---
 
 ## 🎥 Project Demo Video
-[▶ Click here to watch the demo](screenshots/vedio1.mp4)
+
+Click below to download/watch the demo video:
+
+<a href="screenshots/vedio1.mp4">▶️ Download / Watch Demo Video</a>
+
+---
+
+## 🔊 Alert Sound File
+
+Alert sound used in project:
+
+<a href="alert.mp3">🔔 Download Alert Sound (MP3)</a>
+
+---
 
 ---
 
