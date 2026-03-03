@@ -1,0 +1,223 @@
+# 🚨 AI Early Warning System  
+### Real-Time AI-Based Failure Prediction & Monitoring Dashboard
+
+---
+
+## 📌 Overview
+
+The **AI Early Warning System** is an intelligent real-time monitoring dashboard built using **Streamlit and Machine Learning**.  
+
+It continuously monitors system metrics and predicts potential failures before they occur using AI models.
+
+This system helps detect:
+
+- 🔥 High CPU usage  
+- 💾 Memory overload  
+- 💽 Disk pressure  
+- 🌐 Network latency issues  
+- ⚠️ System errors  
+
+When risk is detected, the system automatically:
+
+- 🚨 Displays a risk warning  
+- 🔔 Plays an alert sound  
+- 📧 Sends an email notification  
+- 📊 Logs data into a database  
+
+---
+
+## 🖼️ Project Screenshots
+
+### 📊 1️⃣ Secure Login Page
+![Dashboard](./screenshots/login)
+
+### 🔐 2️⃣ Dashboard View
+![Login](./screenshots/dashboard)
+
+### 📈 3️⃣ Risk Monitoring Chart
+![Chart](./screenshorts/database)
+
+---
+
+## 🎥 Project Demo Video
+
+▶️ Watch Demo:  
+ ![Demo vedio](./screenshorts/vedio1.mp4)
+
+*(Replace with your actual project demo video link)*
+
+---
+
+## 🏗️ Project Structure
+
+```
+AI-EARLY-WARNING-DETECTION/
+│
+├── main.py              # Main Streamlit Dashboard
+├── database.py          # SQLite Database Handling
+├── email_alert.py       # Email Alert System
+├── app.py               # ML Training + SHAP Explainability
+├── anomaly_model.pkl    # Saved Isolation Forest Model
+├── failure_model.pkl    # Saved Random Forest Model
+├── shap_explainer.pkl   # SHAP Explainer
+├── processed_data.csv   # Processed Dataset
+├── monitoring.db        # SQLite Database File
+├── alert.mp3            # Alert Sound
+└── requirements.txt     # Project Dependencies
+```
+
+---
+
+## ⚙️ Key Features
+
+✔ Secure Login Authentication  
+✔ Real-Time System Monitoring  
+✔ AI-Based Failure Prediction  
+✔ Automatic Risk Classification  
+✔ Email Notification System  
+✔ Alert Sound System  
+✔ Live Charts & Visualization  
+✔ SQLite Data Storage  
+✔ SHAP Explainable AI  
+✔ Clean Premium UI Design  
+
+---
+
+## 🧠 Machine Learning Models Used
+
+### 1️⃣ Isolation Forest
+- Detects anomalies in system behavior.
+
+### 2️⃣ Random Forest Classifier
+- Predicts future system failure risk.
+
+### 3️⃣ SHAP (Explainable AI)
+- Explains feature importance behind predictions.
+
+---
+
+## 📊 Risk Classification Logic
+
+| Condition | Risk Level |
+|------------|------------|
+| CPU > 90% OR Memory > 95% | 🔴 CRITICAL |
+| CPU > 80% OR Memory > 85% | 🟠 HIGH |
+| CPU > 65% | 🟡 MEDIUM |
+| Otherwise | 🟢 LOW |
+
+AI probability score can override threshold logic.
+
+---
+
+## 🚀 Installation Guide
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/AI-EARLY-WARNING-DETECTION.git
+cd AI-EARLY-WARNING-DETECTION
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 3️⃣ Run the Application
+
+```bash
+streamlit run main.py
+```
+
+---
+
+## 🔐 Default Login Credentials
+
+```
+Username: admin
+Password: 1234
+```
+
+---
+
+## 📧 Email Alert Configuration
+
+To enable email alerts:
+
+1. Open `email_alert.py`
+2. Replace:
+   - Sender email
+   - App password
+   - Receiver email
+3. Enable Gmail App Password in Google account
+
+---
+
+## 🗄️ Database System
+
+- Uses SQLite
+- Stores latest 100 records
+- Supports filtering
+- Automatically logs predictions
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Scikit-learn  
+- SHAP  
+- SQLite  
+- Pandas  
+- NumPy  
+- Psutil  
+- SMTP (Email Service)  
+
+---
+
+## 🎯 Use Cases
+
+- Data Centers Monitoring  
+- Cloud Infrastructure Monitoring  
+- IT Operations Risk Management  
+- Early Failure Detection Systems  
+- DevOps Monitoring Tools  
+
+---
+
+## 📈 Future Improvements
+
+- Docker Deployment  
+- Cloud Deployment (AWS / Azure)  
+- Real-time sensor integration  
+- SMS Alert System  
+- Advanced Deep Learning Models  
+
+---
+
+## 👨‍💻 Developed By
+
+**Jayanth Kumar B**  
+B.Tech – Computer Science & Engineering  
+AI & Machine Learning Enthusiast  
+2026  
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star this repository  
+- 🍴 Fork this project  
+- 📢 Share with others  
+
+---
+
+### 🚀 "Predict Problems Before They Happen"
