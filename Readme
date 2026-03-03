@@ -28,6 +28,8 @@ When risk is detected, the system automatically:
 
 ## 🖼️ Screenshots
 
+<img src="screenshots/login.png" width="800">
+
 ![login](screenshots/login.png)
 ![dashboard](screenshots/dashboard.png)
 ![database](screenshots/database.png)
